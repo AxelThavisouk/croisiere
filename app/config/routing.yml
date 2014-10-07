@@ -1,0 +1,5 @@
+croisiere:
+    resource: "@CroisiereBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
